@@ -1,12 +1,3 @@
 # Digital-Trainer-Kit
 Digital Trainer kit 
 
-Specification:
-it is used to study different types of logic gates and digital circuits using breadboard. This kit has been designed keeping students in mind so its very easy to understand and use.
-On board 8 TTL Input switches with Dual colour LEDs to indicate low or High
-On board 8 Output LEDs
-On board Two seven segment Displays
-On board Manual Pulsing
-On board 1 Hz clock
-ON/OFF switch for power indication.
-With built-in power supply
