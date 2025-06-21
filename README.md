@@ -30,5 +30,26 @@ A DIY educational **digital testing kit** designed to test circuits on a breadbo
 ## 📐 Schematics
 
 - The full schematic is available here:  
-  📄 [Schematic_whole-digital-kit_2025-05-10.pdf](./Schematic_whole-digital-kit_2025-05-10.pdf)
+  **Power Supply Section:**
+  
+  ![+5v circuit](https://github.com/user-attachments/assets/24560d24-cb52-416a-9082-1f31ea67b7d2)
 
+  **Pulse Generation:**
+  
+  ![1hz](https://github.com/user-attachments/assets/a4e84559-d630-4c17-a095-3644e92a1590)
+  
+  ![manual pulse](https://github.com/user-attachments/assets/c28ca680-c86a-46c9-9a6b-5bd2a0e89cd2)
+
+  **Display Section:**
+  
+  ![bcd to seven segment](https://github.com/user-attachments/assets/259ded0a-5d0e-4c10-9f2d-42c332f5264a)
+  
+  **Input Section:**
+  
+  ![input](https://github.com/user-attachments/assets/4c4b44ce-3397-47f9-ad73-1d33078d9031)
+
+  **Output Section:**
+  
+  ![output](https://github.com/user-attachments/assets/ced217c6-57cf-4272-915f-90275aec5d50)
+
+  
